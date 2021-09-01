@@ -10,3 +10,8 @@ C:\Users\antek\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\unclosab
 C:\Users\antek\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\unclosable_window.exe
 C:\Users\antek\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\unclosable_window.pdb
 C:\Users\antek\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.password.resources
+C:\Users\antek\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\unclosable_window.exe.manifest
+C:\Users\antek\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\unclosable_window.application
+C:\Users\antek\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\unclosable_window.TrustInfo.xml
+C:\Users\antek\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\unclosable_window.exe.manifest
+C:\Users\antek\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\unclosable_window.application

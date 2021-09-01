@@ -17,6 +17,8 @@ namespace WindowsFormsApp1
 
         private int licznik = 0;
 
+        private SoundPlayer simpleSound;
+
         public Form1()
         {
             InitializeComponent();
@@ -24,7 +26,9 @@ namespace WindowsFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            SoundPlayer simpleSound = new SoundPlayer(@"sound.wav");
+            
+
+            simpleSound = new SoundPlayer(Properties.Resources.sound);
             simpleSound.Play();
 
             timer1.Start();
